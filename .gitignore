@@ -1,0 +1,6 @@
+node_modules
+src/playground
+public/dist/
+.env.development
+.env.test
+.envs.test
